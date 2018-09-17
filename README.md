@@ -8,12 +8,11 @@ To make it easier for you to work on the labs, you are provided with pre-provisi
 * Register for the lab environment by providing your information and clicking on **Submit** button.
 ![alt text](Images/registration.png)
 
-
 * On the next page, click the **Launch Lab** button.
-
+![alt text](Images/Launch-lab.jpg)
 
 * Wait for the lab environment to be provisioned. Sometimes this can take upto **10 minutes**. Once environment provisioning is complete, you will receive details in email as well as in the browser.
-
+![alt text](Images/environment.jpg)
 
  > Note: Lab environment is enabled only for specific duration or workshop end time - whichever is earlier. At the end of the allowed time, environment will be self-destructed.
  
