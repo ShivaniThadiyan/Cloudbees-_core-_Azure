@@ -68,12 +68,5 @@ To make it easier for you to work on the labs, you are provided with pre-provisi
 * Now you can see the jenkins master is created successfully.
 ![alt text](Images/master-successfully.jpg)
 
-
-
-
-
-
-
-
-
-
+* Now jenkins-master is listed on jenkins dashboard.
+![alt text](Images/jen-master.jpg)
